@@ -27,3 +27,5 @@ kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
 
 
+
+
