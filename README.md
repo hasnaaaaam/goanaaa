@@ -19,9 +19,7 @@ wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story me
 kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
 | sebagai  | Saya ingin bisa |Sehingga | Prioritas |
-
-| ......|............... ........|.........|
-
+|......|.......|........|.........|
 | Pengguna |	Mengakses jenis doa | 	Akses mudah ke doa |	⭐⭐⭐⭐ |
 | Pengguna | 	Menjadi Refrerensi | Dapat menemukan dengan cepat doa-doa yang sesuai kebutuhan mereka | ⭐⭐⭐⭐ |
 | Pengguna | Menjadi pengingat harian | 	Dapat mendukung pengguna dalam menjaga konsistensi dalam beribadah | 	⭐⭐⭐⭐ |
