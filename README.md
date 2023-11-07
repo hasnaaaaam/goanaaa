@@ -20,11 +20,18 @@ kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
 | sebagai  | Saya ingin bisa |Sehingga | Prioritas |
 |-------|--------|-------|---------|
-| Pengguna |	Mengakses jenis doa | 	Akses mudah ke doa |	⭐⭐⭐⭐ |
-| Pengguna | 	Menjadi Refrerensi | Dapat menemukan dengan cepat doa-doa yang sesuai kebutuhan mereka | ⭐⭐⭐⭐ |
-| Pengguna | Menjadi pengingat harian | 	Dapat mendukung pengguna dalam menjaga konsistensi dalam beribadah | 	⭐⭐⭐⭐ |
-| Pengguna | Berbagi Kebaikan	| Dapat berbagi inspirasi kepada orang lain |	⭐⭐⭐⭐ |
-
+| Pengguna aplikasi | Daftar Doa | Mudah mengakses doa doa dan doa penting lainnya | ⭐⭐⭐⭐ |
+| Pengguna aplikasi | Teks Doa dan Terjemahan | Memahami makna doa dalam bahasa arab dan bahasa yang dimengerti | ⭐⭐⭐⭐ |
+| Pengguna aplikasi | Audio Doa | Belajar pengucapan doa dengan benar | ⭐⭐⭐ |
+| Pengguna aplikasi | Penyusunan Doa Favorit | Menyusun daftar doa favorit dengan mudah | ⭐⭐⭐⭐ | 
+| Pengguna aplikasi | Pengingat Doa | Diingatkan untuk berdoa pada waktu yang tepat | ⭐⭐⭐⭐ | 
+| Pengguna aplikasi | Kalender Hijriah | Melacak tanggal hari penting dalam islam | ⭐⭐⭐ | 
+| Pengguna aplikasi | Tafsir Doa | Memahami makna dan latar belakang doa | ⭐⭐⭐⭐ | 
+| Pengguna aplikasi | Doa untuk kategori khusus | Memiliki doa khusus untuk situasi tertentu | ⭐⭐⭐ | 
+| Pengguna aplikasi | Pencarian Doa | Mencari doa berdasarkan kata kunci atau tofik | ⭐⭐⭐⭐⭐ | 
+| Pengguna aplikasi | Penyimpanan Offline | Mengakses doa dalam mode offline | ⭐⭐⭐⭐ | 
+| Pengguna aplikasi | Kustomisasi Tampilan | Menyesuaikan tampilan aplikasi | ⭐⭐ | 
+| Pengguna aplikasi | Berbagi Doa | Berbagi doa dengan orang lain | ⭐⭐⭐⭐ | 
 
 
 
