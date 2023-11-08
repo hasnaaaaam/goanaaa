@@ -6,8 +6,11 @@ Gen Z tumbuh dan berkembang di lingkungan teknologi digital yang berkembang deng
 Aplikasi Doa Doa ku ini pastinya sangat membantu umat Islam dalam menjalankan ibadah sehari-hari dan memahami ajaran agama dengan lebih baik.
 # Analysis : Branding
 Pada tahap ini kita mengeksplorasi branding dari system yang dibuat. Branding meliputi:
+
 •	Merk: Doa Doa ku
+
 •	Tagline: Berdoa dengan Mudah, Hidup penuh ketenangan
+
 •	Campaign: Aplikasi ini dirancang untuk membantu umat Islam dalam menjalankan ibadah sehari-hari dan untuk memudahkan akses untuk berdoa. 
 •	Target user: 
  •	User semua kelompok usia
