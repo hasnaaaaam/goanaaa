@@ -1,3 +1,6 @@
+# Membuat Aplikasi Doa Doa Dengan Canva, NetBeans, Java Swing, MySQL
+Hasna Minatul Mardiah 27 Oktober 2023
+
 # Latar Belakang
 Gen Z tumbuh dan berkembang di lingkungan teknologi digital yang berkembang dengan kemajuan intelektual yang semakin beragam. Hal ini menjadi tantangan untuk memanfaatkan peluang teknologi yang ada untuk mengedukasi dan mengajarkan tentang moral dan kebaikan. Salah satukebaikan yang perlu diajarkan, adalah kewajiban untuk berdoa sebagai manusia yang berketuhanan. Sehingga Aplikasi Doa Doa ku ini cocok, aplikasi ini merupakan jenis aplikasi seluler atau perangkat lunak yang dikhususkan untuk menyediakan akses mudah ke berbagai doa, dzikir, ayat suci, dan praktik keagamaan dalam Islam. Aplikasi ini dirancang untuk membantu umat Islam dalam menjalankan ibadah sehari-hari dan untuk memudahkan akses untuk berdoa. 
 Aplikasi Doa Doa ku ini pastinya sangat membantu umat Islam dalam menjalankan ibadah sehari-hari dan memahami ajaran agama dengan lebih baik.
@@ -34,6 +37,10 @@ kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 | Pengguna aplikasi | Penyimpanan Offline | Mengakses doa dalam mode offline | ⭐⭐⭐⭐ | 
 | Pengguna aplikasi | Kustomisasi Tampilan | Menyesuaikan tampilan aplikasi | ⭐⭐ | 
 | Pengguna aplikasi | Berbagi Doa | Berbagi doa dengan orang lain | ⭐⭐⭐⭐ | 
+
+# Design: User Experience (UX) Design
+
+![WhatsApp Image 2023-11-08 at 08 20 05_2e364773](https://github.com/hasnaaaaam/goanaaa/assets/144829887/bcf40750-9de3-4fbd-b747-c7d82397243c)
 
 
 
