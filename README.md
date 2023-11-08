@@ -1,24 +1,26 @@
 # Latar Belakang
-Gen Z tumbuh dan berkembang di lingkungan teknologi digital yang berkembang dengan 
-kemajuan intelektual yang semakin beragam. Hal ini menjadi tantangan untuk memanfaatkan peluang 
-teknologi yang ada untuk mengedukasi dan mengajarkan tentang moral dan kebaikan. Salah satu
-kebaikan yang perlu diajarkan, adalah kewajiban untuk berdoa sebagai manusia yang berketuhanan.
+Gen Z tumbuh dan berkembang di lingkungan teknologi digital yang berkembang dengan kemajuan intelektual yang semakin beragam. Hal ini menjadi tantangan untuk memanfaatkan peluang teknologi yang ada untuk mengedukasi dan mengajarkan tentang moral dan kebaikan. Salah satukebaikan yang perlu diajarkan, adalah kewajiban untuk berdoa sebagai manusia yang berketuhanan. Sehingga Aplikasi Doa Doa ku ini cocok, aplikasi ini merupakan jenis aplikasi seluler atau perangkat lunak yang dikhususkan untuk menyediakan akses mudah ke berbagai doa, dzikir, ayat suci, dan praktik keagamaan dalam Islam. Aplikasi ini dirancang untuk membantu umat Islam dalam menjalankan ibadah sehari-hari dan untuk memudahkan akses untuk berdoa. 
+Aplikasi Doa Doa ku ini pastinya sangat membantu umat Islam dalam menjalankan ibadah sehari-hari dan memahami ajaran agama dengan lebih baik.
 # Analysis : Branding
 Pada tahap ini kita mengeksplorasi branding dari system yang dibuat. Branding meliputi:
 •	Merk: Doa Doa ku
-•	Tagline: Membaca Doa
-•	Campaign: Aplikasi ini dapat memudahkan pengguna untuk berdoa 
+•	Tagline: Berdoa dengan Mudah, Hidup penuh ketenangan
+•	Campaign: Aplikasi ini dirancang untuk membantu umat Islam dalam menjalankan ibadah sehari-hari dan untuk memudahkan akses untuk berdoa. 
 •	Target user: 
-•	User semua kelompok usia
-•	Muslim
-•	Orang orang yang mau Belajar Agama 
-•	Orang orang yang Sedang Menghadapi Tantangan
+ •	User semua kelompok usia
+ •	Muslim
+ •	Orang orang yang mau Belajar Agama 
+ •	Orang orang yang Sedang Menghadapi Tantangan
+• User Experience theme :
+ • Tema visual yang menenangkan 
+ • Desain Minimalis 
+ • Jenis Huruf mudah dibaca 
 # Analysis: User Story
 Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita
 wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story memudahkan
 kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
-| sebagai  | Saya ingin bisa |Sehingga | Prioritas |
+| Sebagai  | Saya ingin bisa |Sehingga | Prioritas |
 |-------|--------|-------|---------|
 | Pengguna aplikasi | Daftar Doa | Mudah mengakses doa doa dan doa penting lainnya | ⭐⭐⭐⭐ |
 | Pengguna aplikasi | Teks Doa dan Terjemahan | Memahami makna doa dalam bahasa arab dan bahasa yang dimengerti | ⭐⭐⭐⭐ |
