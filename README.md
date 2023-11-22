@@ -13,14 +13,14 @@ Pada tahap ini kita mengeksplorasi branding dari system yang dibuat. Branding me
 
 •	Campaign: Aplikasi ini dirancang untuk membantu umat Islam dalam menjalankan ibadah sehari-hari dan untuk memudahkan akses untuk berdoa. 
 •	Target user: 
- •	User semua kelompok usia
- •	Muslim
- •	Orang orang yang mau Belajar Agama 
- •	Orang orang yang Sedang Menghadapi Tantangan
+  -User semua kelompok usia
+  -Muslim
+  -Orang orang yang mau Belajar Agama 
+ 	-Orang orang yang Sedang Menghadapi Tantangan
 • User Experience theme :
- • Tema visual yang menenangkan 
- • Desain Minimalis 
- • Jenis Huruf mudah dibaca 
+  -Tema visual yang menenangkan 
+  -Desain Minimalis 
+  -Jenis Huruf mudah dibaca 
 # Analysis: User Story
 Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita
 wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story memudahkan
