@@ -52,15 +52,11 @@ kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 # Analysis Struktur Data
 <img width="202" alt="image" src="https://github.com/hasnaaaaam/goanaaa/assets/144829887/67096226-f145-45c2-ba69-391ccbc66722">
 
-# Design Arsitektur Berbasis Client-Server
-flowchart BT 
-  subgraph cloud
-    B[Web Server: JavaSwing - NetBeans] <--> C[Aplikasi Web Backend: JavaSwing - NetBeans] 
-    C <--> D[Database: MySQL] 
-  end
-  A[Aplikasi web : JavaSwing] <--> B
-```
+# Design: Arsitektur Berbasis Client-Server
 
+![image](https://github.com/hasnaaaaam/goanaaa/assets/144829887/53122668-9259-40ff-90b7-93b306660516)
+
+  
 # Design: User Experience (UX) Design
 
 ![WhatsApp Image 2023-11-08 at 08 20 05_2e364773](https://github.com/hasnaaaaam/goanaaa/assets/144829887/bcf40750-9de3-4fbd-b747-c7d82397243c)
