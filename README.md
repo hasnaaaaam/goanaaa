@@ -41,6 +41,9 @@ kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 | Pengguna aplikasi | Kustomisasi Tampilan | Menyesuaikan tampilan aplikasi | ⭐⭐ | 
 | Pengguna aplikasi | Berbagi Doa | Berbagi doa dengan orang lain | ⭐⭐⭐⭐ | 
 
+# Analysis Struktur Data
+<img width="202" alt="image" src="https://github.com/hasnaaaaam/goanaaa/assets/144829887/67096226-f145-45c2-ba69-391ccbc66722">
+
 # Design: User Experience (UX) Design
 
 ![WhatsApp Image 2023-11-08 at 08 20 05_2e364773](https://github.com/hasnaaaaam/goanaaa/assets/144829887/bcf40750-9de3-4fbd-b747-c7d82397243c)
