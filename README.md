@@ -54,7 +54,33 @@ kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
 # Design: Arsitektur Berbasis Client-Server
 
-![image](https://github.com/hasnaaaaam/goanaaa/assets/144829887/53122668-9259-40ff-90b7-93b306660516)
+![image](https://github.com/hasnaaaaam/goanaaa/assets/144829887/53122668-9259-40ff-90b7-93b306660516) 
+
+graph LR
+
+subgraph Client
+    HTML[HTML]
+end
+
+subgraph Backend
+    Nodejs[Node.js]
+end
+
+subgraph WebServer
+    Apache[Apache]
+end
+
+subgraph Database
+    MySQL[MySQL]
+end
+
+HTML -->|Request| Nodejs
+Nodejs -->|Request| Apache
+Apache -->|Request| MySQL
+MySQL -->|Response| Apache
+Apache -->|Response| Nodejs
+Nodejs -->|Response| HTML
+
 
   
 # Design: User Experience (UX) Design
