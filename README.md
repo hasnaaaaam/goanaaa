@@ -1,4 +1,4 @@
-# Membuat Aplikasi Doa Doa Dengan Canva, NetBeans, Java Swing, MySQL
+# Membuat Aplikasi Doa Doa Dengan Canva, HTML,CSS, Javascript, MySQL
 Hasna Minatul Mardiah 27 Oktober 2023
 
 # Latar Belakang
