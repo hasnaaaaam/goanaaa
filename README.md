@@ -56,6 +56,91 @@ kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
    <img width="583" alt="Screenshot 2023-12-31 133142" src="https://github.com/hasnaaaaam/goanaaa/assets/144829887/0ba5cb81-af9e-43c0-9c01-0d0be3875f92">
 
+# Code HTML
+
+  HALAMAN AWAL
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Doa Doa Ku</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      padding-top: 100px;
+    }
+    h1 {
+      font-size: 36px;
+      color: #333;
+    }
+    a {
+      text-decoration: none;
+      color: #007bff;
+      display: block;
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Doa Doa Ku</h1>
+  <a href="doa.html">Lihat Doa</a>
+</body>
+</html>
+
+  HALAMAN KE 2
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Isi Doa</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+      padding-top: 50px;
+    }
+    h1 {
+      font-size: 28px;
+      color: #333;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      margin-top: 20px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    a {
+      text-decoration: none;
+      color: #007bff;
+      display: block;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Isi Doa</h1>
+  <ul>
+    <li><a href="#">Husnul Khatimah - Allahumma jannibnā 'adzāba al-qabri wa 'adzāba an-nār</a></li>
+    <li><a href="#">Doa Selamat - Allahumma innī as'aluka al-'āfiyah fi al-dunyā wal-ākhirah</a></li>
+    <li><a href="#">Doa Agar Dimudahkan Segala Urusan - Rabbī yassir walā tu'assir</a></li>
+    <li><a href="#">Doa untuk Kedua Orang Tua - Rabbir hamhuma kama rabbayānī shaghīrah</a></li>
+    <li><a href="#">Doa Taubat - Allahumma innī ṭubtu an dhanbī kullih</a></li>
+  </ul>
+</body>
+</html>
+
+
+
+
+
 
   
 # Design: User Experience (UX) Design
